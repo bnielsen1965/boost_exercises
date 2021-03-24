@@ -1,0 +1,6 @@
+{
+  thisIsBroken: 32,
+  "url": "https://localhost:4443/focuscare/api/v1/",
+  "config": { "rejectUnauthorized": false },
+  "count": 42
+}
